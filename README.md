@@ -21,5 +21,7 @@ An end-to-end inventory management and forecasting system developed for a fertil
 - `python` → Python codes for sync, stock calculation, forecasting
 - `powerbi` → Power BI Dashboard file
 
+- *Note*: Entire data is not uploaded due to confidential issues
+
 
 *Developed by Devara Sai Tejaswi*
